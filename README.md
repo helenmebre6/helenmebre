@@ -1,6 +1,8 @@
 
 # Helen Meles 
-## I am a current google project management student in the year up program.
+## Overview 
+
+I am a current Project Management student in the Year Up Seattle program.
 
 *I have completed the Google Project Management Certificate Program, where I gained an immersive understanding of the best practices and essential skills required to succeed in a project management role. I am now eager to embark on the next stage of my career journey and apply my newfound knowledge and expertise to drive successful project outcomes.*
 * In my Year UP program journey I got a lot of potential benefits:
