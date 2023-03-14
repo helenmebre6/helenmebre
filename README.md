@@ -11,14 +11,11 @@
            
            3.Personal Growth
            
- *The Year Up Program provides opportunities for participants to achieve a range of accomplishments:*
+ ## The Year Up Program provided me opportunities to: 
  
-
-            - Developing new skill
-            
-            - Completing a meaningful internship
-            
-            - Earning college credit
+- Develop new technical skills 
+- Earn internship in related technical field 
+- Bridge oppurtunity divde 
            
  * [linkedin](https://www.linkedin.com/in/helen-meles-957a74262)
  
